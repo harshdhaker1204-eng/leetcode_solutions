@@ -67,4 +67,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0856-score-of-parentheses/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0856-score-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
