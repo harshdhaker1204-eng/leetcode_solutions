@@ -8,6 +8,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Depth-First Search
@@ -141,4 +142,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
