@@ -51,6 +51,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0278-first-bad-version/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
