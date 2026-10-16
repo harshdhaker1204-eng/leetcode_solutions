@@ -87,6 +87,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0856-score-of-parentheses/) | Medium |
