@@ -46,6 +46,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -86,6 +87,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -152,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
