@@ -88,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0344-reverse-string](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -158,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
