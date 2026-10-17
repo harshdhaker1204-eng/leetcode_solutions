@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -163,5 +164,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
