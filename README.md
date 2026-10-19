@@ -51,6 +51,7 @@
 | [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0027-remove-element/) | Easy |
+| [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -60,6 +61,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -174,4 +176,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
