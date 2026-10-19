@@ -51,6 +51,7 @@
 | [0014-longest-common-prefix](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0027-remove-element/) | Easy |
+| [0041-first-missing-positive](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -180,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0041-first-missing-positive](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->
