@@ -53,6 +53,7 @@
 | [0027-remove-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -69,6 +70,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0684-redundant-connection](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -186,4 +188,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
