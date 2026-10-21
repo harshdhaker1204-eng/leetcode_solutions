@@ -53,6 +53,7 @@
 | [0027-remove-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -118,6 +119,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Shortest Path
