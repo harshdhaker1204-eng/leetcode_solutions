@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0162-find-peak-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -55,6 +56,7 @@
 | [0059-spiral-matrix-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0162-find-peak-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
