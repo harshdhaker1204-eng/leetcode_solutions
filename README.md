@@ -69,6 +69,7 @@
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [1254-number-of-closed-islands](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@
 | [0119-pascals-triangle-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
