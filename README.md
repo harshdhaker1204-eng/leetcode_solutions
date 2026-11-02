@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0162-find-peak-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -189,6 +191,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
