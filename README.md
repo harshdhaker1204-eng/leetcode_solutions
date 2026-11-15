@@ -7,6 +7,7 @@
 | [0367-valid-perfect-square](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -145,6 +147,7 @@
 | [0119-pascals-triangle-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -230,4 +233,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
