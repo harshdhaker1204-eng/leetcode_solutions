@@ -67,6 +67,7 @@
 | [0137-single-number-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0733-flood-fill](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
@@ -221,6 +222,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
