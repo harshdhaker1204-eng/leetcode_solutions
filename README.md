@@ -129,6 +129,7 @@
 | [0856-score-of-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
