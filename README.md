@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0162-find-peak-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -66,6 +67,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -208,6 +210,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshdhaker1204-eng/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Divide and Conquer
